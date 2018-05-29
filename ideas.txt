@@ -1,0 +1,7 @@
+Lluvia de ideas. 29/May/2018
+
+* Poder agregar eventos
+* Que los organizadores puedan invitar a otros artistas
+* Que los artistas puedan solicitar unirse a un evento
+* Lista de asistentes
+* directorio de espacios que se presten para el evento
