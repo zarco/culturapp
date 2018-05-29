@@ -6,3 +6,4 @@ Lluvia de ideas
 * Lista de asistentes
 * directorio de espacios que se presten para el evento
 * incluir mapa de ubicacion del evento
+* Incluir galería de obras 
