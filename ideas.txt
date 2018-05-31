@@ -3,7 +3,15 @@ Lluvia de ideas
 * Poder agregar eventos
 * Que los organizadores puedan invitar a otros artistas
 * Que los artistas puedan solicitar unirse a un evento
-* Lista de asistentes
 * directorio de espacios que se presten para el evento
-* incluir mapa de ubicacion del evento
-* Incluir galería de obras 
+
+* Que los artistas puedan crear un perfil con imagenes, video o sonido de sus obras listas para exponer
+* Interacción entre los perfiles con fines de colaboración
+* Links a redes sociales del artista
+* Que los luegares o artistas puedan calificar a otros artistas en base a la colaboración que han tenido
+* Que al crear un evento el artista tenga herramientas de organización como
+  * directorio de espacios
+  * listas para tareas, materiales
+  * sugerencias de "que incluir" 
+  * sugerencias de "donde publicar"
+* Que la página indique cuando el evento este listo/ indique cuando faltan cosas por hacer
